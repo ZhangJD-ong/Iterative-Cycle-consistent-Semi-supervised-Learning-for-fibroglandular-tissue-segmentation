@@ -35,7 +35,7 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
       ├─Breast_MRI_018
       ...
 
-└─wo_lanel
+└─wo_label
       ├─Breast_MRI_001
             ├─Breast.nii.gz
             ├─P0.nii.gz
@@ -48,16 +48,18 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
 * The format of the train.txt / test.txt is as follow：
 ```
 ./data/train.txt
-├─'Guangdong_1'
-├─'Guangdong_2'
-├─'Guangdong_3'
+├─w-Breast_MRI_002
+├─w-Breast_MRI_006
+├─w-Breast_MRI_018
 ...
-├─'Yunzhong_100'
-├─'Yunzhong_101'
-...
-├─'Ruijin_1010'
+├─wo-Breast_MRI_001
+├─wo-Braest_MRI_003
 ...
 ```
+
+### Whole Breast Segmentation Model
+* The whole breast segmentation process is required to locate the breast ROI first.
+* Partial images and whole breast annotations are available at: https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation
 
 ### Tumor Segmentation Model
 * The tumor segmentation process is required to remove tumor enhancement for accurate BPE (Background Parenchymal Enhancement) quantification ratio.
