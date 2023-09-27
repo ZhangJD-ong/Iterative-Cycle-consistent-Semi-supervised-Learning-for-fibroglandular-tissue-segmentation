@@ -17,7 +17,7 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
 ## Setup
 
 ### Dataset
-* The public dataset can be downloaded via https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903.
+* The public dataset can be downloaded via https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903
 * To train the segmentation models, you need to organize the data in the following format:
 
 ```
