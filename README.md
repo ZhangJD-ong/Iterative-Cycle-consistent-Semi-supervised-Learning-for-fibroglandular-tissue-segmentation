@@ -65,7 +65,7 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
 * Partial images and whole breast annotations are available at: https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation
 
 ### Tumor Segmentation Model
-* The tumor segmentation process is required to remove tumor enhancement for accurate BPE (Background Parenchymal Enhancement) quantification ratio.
+* The tumor segmentation process is required to remove tumor enhancement for accurate BPE (Background Parenchymal Enhancement) quantification.
 * A well-designed tumor segmentation assistant is available at: https://github.com/ZhangJD-ong/AI-assistant-for-breast-tumor-segmentation
 
 ## Citation
