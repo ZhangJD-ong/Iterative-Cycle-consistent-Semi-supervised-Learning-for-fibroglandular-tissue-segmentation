@@ -1,7 +1,7 @@
 # Iterative-Cycle-consistent-Semi-supervised-Learning-for-fibroglandular-tissue-segmentation
 
 ## Paper:
-Please see: Breast Fibroglandular Tissue Segmentation for Automated BPE Quantification with Iterative Cycle-consistent Semi-supervised Learning
+Please see: Breast Fibroglandular Tissue Segmentation for Automated BPE Quantification with Iterative Cycle-consistent Semi-supervised Learning (IEEE Transactions on Medical Imaging 2023)
 
 ## Introduction:
 This is the PyTorch implementation for fibroglandular tissue segmentation.
