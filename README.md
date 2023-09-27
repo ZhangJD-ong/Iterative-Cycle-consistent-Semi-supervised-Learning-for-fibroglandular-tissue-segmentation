@@ -30,14 +30,17 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
             ├─P0.nii.gz
             ├─P1_reg.nii.gz
             └─Tissue_gt.nii.gz
+
       ├─Breast_MRI_006
       ├─Breast_MRI_018
       ...
+
 └─wo_lanel
       ├─Breast_MRI_001
             ├─Breast.nii.gz
             ├─P0.nii.gz
             └─P1_reg.nii.gz
+
       ├─Breast_MRI_003
       ├─Breast_MRI_004
       ...
