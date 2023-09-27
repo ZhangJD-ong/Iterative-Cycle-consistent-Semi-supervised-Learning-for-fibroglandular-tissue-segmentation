@@ -1,4 +1,4 @@
-# Iterative-Cycle-consistent-Semi-supervised-Learning-for-fibroglandular-tissue-segmentation
+# Iterative Cycle-consistent Semi-supervised Learning for breast fibroglandular tissue segmentation
 
 ## Paper:
 Please see: Breast Fibroglandular Tissue Segmentation for Automated BPE Quantification with Iterative Cycle-consistent Semi-supervised Learning (IEEE Transactions on Medical Imaging 2023)
