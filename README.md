@@ -24,34 +24,23 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
 ./data
 ├─train.txt
 ├─test.txt
-├─Guangdong
-      ├─Guangdong_1
-          ├─P0.nii.gz
-          ├─P1.nii.gz
-          ├─P2.nii.gz
-          ├─P3.nii.gz
-          ├─P4.nii.gz     
-          └─P5.nii.gz
-      ├─Guangdong_2
-      ├─Guangdong_3
+├─w_label
+      ├─Breast_MRI_002
+            ├─Breast.nii.gz
+            ├─P0.nii.gz
+            ├─P1_reg.nii.gz
+            └─Tissue_gt.nii.gz
+      ├─Breast_MRI_006
+      ├─Breast_MRI_018
       ...
-├─Guangdong_breast
-      ├─Guangdong_1.nii.gz
-      ├─Guangdong_2.nii.gz
-      ├─Guangdong_2.nii.gz
+└─wo_lanel
+      ├─Breast_MRI_001
+            ├─Breast.nii.gz
+            ├─P0.nii.gz
+            └─P1_reg.nii.gz
+      ├─Breast_MRI_003
+      ├─Breast_MRI_004
       ...
-├─Guangdong_gt
-      ├─Guangdong_1.nii.gz
-      ├─Guangdong_2.nii.gz
-      ├─Guangdong_2.nii.gz
-      ...         
-└─Yunzhong
-└─Yunzhong_breast
-└─Yunzhong_gt
-└─Ruijin
-└─Ruijin_breast
-└─Ruijin_gt
-...
 ```
 * The format of the train.txt / test.txt is as follow：
 ```
