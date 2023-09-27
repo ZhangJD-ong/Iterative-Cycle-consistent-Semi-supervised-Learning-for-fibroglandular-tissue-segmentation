@@ -18,6 +18,7 @@ This is the PyTorch implementation for fibroglandular tissue segmentation.
 
 ### Dataset
 * The public dataset can be downloaded via https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903
+* Our released dataset can be downloaded via https://doi.org/10.5281/zenodo.8068383 (from paper: https://doi.org/10.1016/j.patter.2023.100826)
 * To train the segmentation models, you need to organize the data in the following format:
 
 ```
@@ -70,11 +71,4 @@ If you find the code useful, please consider citing the following papers:
 * Zhang et al., Breast Fibroglandular Tissue Segmentation for Automated BPE Quantification with Iterative Cycle-consistent Semi-supervised Learning, IEEE Transactions on Medical Imaging (2023)
 * Zhang et al., A robust and efficient AI assistant for breast tumor segmentation from DCE-MRI via a spatial-temporal framework, Patterns (2023), https://doi.org/10.1016/j.patter.2023.100826
 * Zhang et al., Recent advancements in artificial intelligence for breast cancer: Image augmentation, segmentation, diagnosis, and prognosis approaches, Seminars in Cancer Biology (2023), https://doi.org/10.1016/j.semcancer.2023.09.001
-
-
-
-
-
-
-
 
