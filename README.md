@@ -2,7 +2,8 @@
 
 ## Paper:
 Please see: Breast Fibroglandular Tissue Segmentation for Automated BPE Quantification with Iterative Cycle-consistent Semi-supervised Learning (IEEE Transactions on Medical Imaging 2023)
-Link: https://doi.org/10.1109/TMI.2023.3319646
+
+Paper Link: https://doi.org/10.1109/TMI.2023.3319646
 
 ## Introduction:
 This is the PyTorch implementation for fibroglandular tissue segmentation.
